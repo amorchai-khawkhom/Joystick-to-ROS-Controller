@@ -24,15 +24,9 @@ This project includes:
 - signal tracing
 
 <img width="4160" height="3120" alt="IMG_20200204_103606" src="https://github.com/user-attachments/assets/29e686c2-d51e-4063-b6ef-0ac455895628" />
-
-<img width="3120" height="4160" alt="IMG_20200807_134147" src="https://github.com/user-attachments/assets/d3ff20c8-a5a3-4e5d-833a-ee9075c1df4b" />
 <img width="4160" height="3120" alt="IMG_20200204_103757" src="https://github.com/user-attachments/assets/14619ccf-86f8-4182-9b7b-dbedc9c44ef4" />
 
 
-<img width="3120" height="4160" alt="IMG_20200131_150032" src="https://github.com/user-attachments/assets/1c67890c-3a78-4286-ab1f-7616745a5ce3" />
-<img width="3120" height="4160" alt="IMG_20200131_150025" src="https://github.com/user-attachments/assets/7f1649cc-bfa9-4fb0-83ca-dcdde5c041ef" />
-<img width="3120" height="4160" alt="IMG_20200131_150016" src="https://github.com/user-attachments/assets/8219eb57-a1ea-46b6-8bac-8c85128d9bed" />
-<img width="3120" height="4160" alt="IMG_20200131_150643" src="https://github.com/user-attachments/assets/a6a64435-001d-4d04-be57-2b904e2351c6" />
 
 
 ## Mechanical Joystick
